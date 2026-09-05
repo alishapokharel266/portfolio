@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/alisha_portfolio_business_analyst.html"
+    }
+  ]
+}
